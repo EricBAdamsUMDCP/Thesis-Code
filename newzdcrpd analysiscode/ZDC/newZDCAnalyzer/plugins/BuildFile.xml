@@ -1,0 +1,21 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/PluginManager"/>
+<use name="FWCore/ParameterSet"/>
+<use name="CommonTools/UtilAlgos"/>
+<use name="DataFormats/TrackReco"/>
+<use name="DataFormats/Candidate"/>
+<use name="DataFormats/TrackerRecHit2D"/>
+<use name="Geometry/Records"/>
+<use name="Geometry/TrackerGeometryBuilder"/>
+<use name="CondFormats/HcalObjects"/>
+<use name="DataFormats/EcalRecHit"/>
+<use name="DataFormats/HcalRecHit"/>
+<use name="DataFormats/HcalDigi"/>
+<use name="DataFormats/HcalDetId"/>
+<use name="DataFormats/DetId"/>
+<use name="CalibFormats/HcalObjects"/>
+<use name="RecoLocalCalo/HcalRecAlgos"/>
+<use name="HLTrigger/HLTcore"/>
+
+
+<flags EDM_PLUGIN="1"/>
